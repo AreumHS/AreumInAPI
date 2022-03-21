@@ -1,2 +1,0 @@
-# areumin-api
- 
